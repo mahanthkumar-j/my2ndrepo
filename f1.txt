@@ -1,5 +1,12 @@
 this is f1 file
 
+<<<<<<< Updated upstream
 //story131
 int i=4
 int b=5
+=======
+//story 121
+a=1
+b=5
+c=a+b
+>>>>>>> Stashed changes
